@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785547726585",
+    "firebase_url": "https://mosqueapp-f60b5.firebaseio.com",
+    "project_id": "mosqueapp-f60b5",
+    "storage_bucket": "mosqueapp-f60b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785547726585:android:3294d54259a7b946ce5c28",
+        "android_client_info": {
+          "package_name": "com.example.mosqueapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785547726585-c713aotrgus8q5412v86nbj15o4ei5a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpDRELCfNI6rQWA6HUImCs8uGL8ZPDXw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785547726585-c713aotrgus8q5412v86nbj15o4ei5a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
